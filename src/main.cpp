@@ -59,7 +59,7 @@ MQTT_Config config = {
     "dwj080900",              // WiFi密码
     "broker.emqx.io",        // MQTT服务器地址
     1883,                        // MQTT端口 (TCP端口)
-    "DWJLOVESWJ",          // 客户端ID
+    "DWJ",          // 客户端ID
     "",                    // MQTT用户名
     "",                      // MQTT密码
     "DWJ_Get",             // 接收主题
